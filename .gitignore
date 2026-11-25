@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Data
+data/raw/
+*.csv
+*.parquet
+*.h5
+*.pkl
